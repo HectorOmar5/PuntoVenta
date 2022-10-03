@@ -1,0 +1,11 @@
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CopyComplete
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\Tichs\source\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
